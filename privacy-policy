@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; line-height: 1.6; }
+        h1, h2 { color: #333; }
+        h1 { border-bottom: 1px solid #ccc; padding-bottom: 0.5em; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>
+        Effective Date: June 30, 2025
+
+DragonGate Studio LLC ("we," "us," or "our") respects your privacy and is committed to protecting your personal information.
+
+1. Information We Collect
+Blockies VR does not directly collect or store any personal data from users. The game only accesses aggregate usage metrics and analytics data provided by Meta’s platform to help improve the game experience.
+
+2. Use of Data
+The metrics and analytics we receive from Meta include aggregated, anonymized information related to how players interact with Blockies VR. This data helps us understand gameplay patterns, performance, and technical issues. We do not use this data to identify or track individual users.
+
+3. Data Sharing and Disclosure
+Since we do not collect personal information, DragonGate Studio LLC does not share or sell any user data to third parties.
+
+Any data processing and storage performed by Meta complies with their privacy policies and terms.
+
+4. User Rights and Controls
+Because DragonGate Studio LLC does not collect or store personal data, users do not need to take any action regarding their personal data within our game.
+
+For information about how Meta collects and manages data related to your use of their platform and apps, please visit Meta's Privacy Policy at:
+https://www.facebook.com/policy.php
+
+5. Changes to This Privacy Policy
+We may update this privacy policy from time to time. The updated version will be posted on this page with a new effective date.
+
+6. Contact Us
+If you have any questions about this privacy policy or data practices related to Blockies VR, please contact us at:
+
+DragonGate Studio LLC
+Email: team@dragongatestudio.net
+Website: dragongatestudio.online
+    </p>
+</body>
+</html>
